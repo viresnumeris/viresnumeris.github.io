@@ -10,4 +10,4 @@ Poslanstvo inštituta Vires in Numeris je omogočiti posameznikom in družbi dvi
 
 # Objave
 
-[Objava](./posts/en/first-post)
+[Ali se premikamo proti samostojnemu oblaku?](./posts/si/navigating-self-sovereign-cloud)

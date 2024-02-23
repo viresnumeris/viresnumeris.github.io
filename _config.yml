@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 description: Vires In Numeris Institute, research and development to increase quality of life.
 logo: /assets/img/VIN-logo-bw-5-alata.png
+# logo: <a href="index.html"><img src="/assets/img/VIN-logo-bw-5-alata.png">
+url: "https://www.viresinnumeris.eu/"

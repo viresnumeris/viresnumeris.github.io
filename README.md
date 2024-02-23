@@ -6,4 +6,4 @@ Vires In Numeris Institute is working towards increasing the quality of life for
 
 # Blog posts
 
-[Blog post ](./posts/en/first-post)
+[Navigating the Shift to Self-Sovereign Cloud Storage: An Exploration](./posts/en/navigating-self-sovereign-cloud)
