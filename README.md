@@ -8,4 +8,5 @@ To achieve this, institute is involved in research activities in natural and soc
 
 # Blog posts
 
-[Navigating the Shift to Self-Sovereign Cloud Storage: An Exploration](./posts/en/navigating-self-sovereign-cloud)
+- [Navigating the Shift to Self-Sovereign Cloud Storage: An Exploration](./posts/en/navigating-self-sovereign-cloud)
+- [Cloud Storage as Commons](./posts/en/cloud-storage-as-commons)
