@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+body {
+  font-family: 'Alata', sans-serif;
+}
+
 ul {
   li {
     margin-bottom: 1em; // X times the font size of the <li> element
