@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+ul {
+  li {
+    margin-bottom: 1.5em; // 1.5 times the font size of the <li> element
+  }
+}
