@@ -10,4 +10,4 @@ To achieve this, institute is involved in research activities in natural and soc
 
 - [Navigating the Shift to Self-Sovereign Cloud Storage: An Exploration](./posts/en/navigating-self-sovereign-cloud)
 - [Cloud Storage as Commons](./posts/en/cloud-storage-as-commons)
-- [Can Citizen Science and Decentralized Storage Revolutionize AI?](/posts/en/can-citizen-science-revolutionize-ai)
+- [Can Citizen Science and Decentralized Storage Revolutionize AI?](_posts/en/2024-06-30-can-citizen-science-revolutionize-ai)
