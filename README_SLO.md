@@ -6,7 +6,7 @@ Language: [English](README.md) || Jezik: [Slovenski]()
 
 # Razumevanje peer-to-peer omrežij
 
-Inštitut je vključen v raziskovanje peer-to-peer omrežij, pri čemer jih poskuša razumeti z tehničnega in poslovnega vidika.
+Inštitut je vključen v raziskovanje peer-to-peer omrežij, pri čemer jih poskuša razumeti s tehničnega in poslovnega vidika.
 
 Peer-to-peer omrežja so nastajajoča tehnologija, ki bo omogočila nove primere uporabe.
 
