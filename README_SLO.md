@@ -4,11 +4,13 @@ permalink: README_SLO
 
 Language: [English](README.md) || Jezik: [Slovenski]()
 
-# Poslanstvo
+# Razumevanje peer-to-peer omrežij
 
-Poslanstvo inštituta Vires in Numeris je omogočiti posameznikom in družbi dvigniti raven kakovosti življenja s pomočjo na podatkih temelječih tehnologij. 
+Inštitut je vključen v raziskovanje peer-to-peer omrežij, pri čemer jih poskuša razumeti z tehničnega in poslovnega vidika.
 
-Za ta namen bo inštitut izvajal znanstveno raziskovalno dejavnost na naravoslovnih in družboslovnih področjih temelječih na analizi osebnih podatkov, biostatistike, informacijskih tehnologij, raziskave trga kakor tudi razvoj informacijskih rešitev s teh področij ter  predavanja, izobraževanja in izdajo publikacij.
+Peer-to-peer omrežja so nastajajoča tehnologija, ki bo omogočila nove primere uporabe.
+
+Posebna pozornost je namenjena decentraliziranim omrežjem za shranjevanje podatkov.
 
 # Objave
 
