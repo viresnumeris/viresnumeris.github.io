@@ -2,9 +2,9 @@ Language: [English](README.md) || Jezik: [Slovenski](README_SLO)
 
 # Understanding peer-to-peer networks
 
-Institute is involved in research of peer-to-peer networks, trying to understand them from tecnnical and business perspectives. 
+Institute is involved in research of peer-to-peer networks, trying to understand them from technical and business perspectives. 
 
-Peer-to-peer networks are an emerging technology that will allow use cases to emerge that were not previously possible. 
+Peer-to-peer networks are an emerging technology that will allow use cases to that were not previously possible. 
 
 Specific attention is given to decentralised storage networks. 
 
